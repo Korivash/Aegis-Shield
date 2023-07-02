@@ -36,3 +36,6 @@ To use UwU Tracker, follow these steps:
 2. Set up the necessary permissions for the bot to ban users and manage channels.
 
 
+## 💰 Korivash Donation Page
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/korivash)
+</p>
