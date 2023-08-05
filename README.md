@@ -27,7 +27,7 @@ UwU Tracker is a Discord bot designed to help server owners track and manage und
 UwU Tracker bot notifies all guilds when a user is banned or when a banned user enters their guild. The notifications are sent to the configured notification channel.
 
 ⚙️ Configuration
-1. Invite UwU Tracker to your server by clicking on this [URL](https://discord.com/api/oauth2/authorize?client_id=1124922718916202608&permissions=8&scope=bot).
+1. Invite UwU Tracker to your server by clicking on this https://discord.com/api/oauth2/authorize?client_id=1124922718916202608&permissions=8&scope=bot.
 2. Make sure to grant the bot admin permissions, similar to any other Discord bot.
 
 🚀 Usage
