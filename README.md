@@ -1,39 +1,42 @@
-UwU Tracker Discord Bot 🐾
+# Aegis Shield Discord Bot 🛡️
 
-UwU Tracker is a Discord bot designed to help server owners track and manage undesirable users within their guilds. The bot logs user information in a database and provides slash commands to ban, unban, and manage notification channels. Additionally, it sends notifications to all guilds when a user is banned or when a banned user enters a guild.
+Aegis Shield is a Discord bot designed to help server owners track and manage undesirable users within their guilds. The bot logs user information in a database and provides slash commands to ban, unban, and manage notification channels. Additionally, it sends notifications to all guilds when a user is banned or when a banned user enters a guild.
 
-📜 Slash Commands
-- `/UwUban` 🔨: Bans a user and adds them to the banned list.
-  - **Usage:** `/UwUban <user>`
-  - **Example:** `/UwUban @creepy_user#1234`
+## Slash Commands
+- `/Aegisban` 🔨: Bans a user and adds them to the banned list.
+  - **Usage:** `/Aegisban <user>`
+  - **Example:** `/Aegisban @creepy_user#1234`
 
-- `/UwUbanned` 🚫: Lists all users currently banned in all guilds.
-  - **Usage:** `/UwUbanned`
-  - **Example:** `/UwUbanned`
+- `/Aegissbanned` 🚫: Lists all users currently banned in all guilds.
+  - **Usage:** `/Aegissbanned`
+  - **Example:** `/Aegissbanned`
 
-- `/UwUremban` ⚖️: Removes a user's name from the banned list (does not unban them).
-  - **Usage:** `/UwUremban <user>`
-  - **Example:** `/UwUremban @creepy_user#1234`
+- `/Aegisremban` ⚖️: Removes a user's name from the banned list (does not unban them).
+  - **Usage:** `/Aegisremban <user>`
+  - **Example:** `/Aegisremban @creepy_user#1234`
 
-- `/UwUset-channel` 🔔: Sets the channel where the bot sends notifications.
-  - **Usage:** `/UwUset-channel <channel>`
-  - **Example:** `/UwUset-channel #notifications`
+- `/Aegisset-channel` 🔔: Sets the channel where the bot sends notifications.
+  - **Usage:** `/Aegisset-channel <channel>`
+  - **Example:** `/Aegisset-channel #notifications`
 
-- `/UwUunset-channel` 🚪: Removes the current notification channel.
-  - **Usage:** `/UwUunset-channel`
-  - **Example:** `/UwUunset-channel`
+- `/Aegisunset-channel` 🚪: Removes the current notification channel.
+  - **Usage:** `/Aegisunset-channel`
+  - **Example:** `/Aegisunset-channel`
 
-🎉 Events
-UwU Tracker bot notifies all guilds when a user is banned or when a banned user enters their guild. The notifications are sent to the configured notification channel.
+## Events
+Aegis Shield bot notifies all guilds when a user is banned or when a banned user enters their guild. The notifications are sent to the configured notification channel.
 
-⚙️ Configuration
-1. Invite UwU Tracker to your server by clicking on this https://discord.com/api/oauth2/authorize?client_id=1124922718916202608&permissions=8&scope=bot.
+## Configuration
+1. Invite Aegis Shield to your server by clicking on this [invite link](https://discord.com/api/oauth2/authorize?client_id=1124922718916202608&permissions=8&scope=bot).
 2. Make sure to grant the bot admin permissions, similar to any other Discord bot.
 
-🚀 Usage
-To use UwU Tracker, follow these steps:
-1. Invite the UwU Tracker bot to your Discord server using the provided invite link.
+## Usage
+To use Aegis Shield, follow these steps:
+1. Invite the Aegis Shield bot to your Discord server using the provided invite link.
 2. Set up the necessary permissions for the bot to ban users and manage channels.
+
+Please note that you will need to update the bot's name and any relevant links or references accordingly when renaming the bot.
+
 
 
 ## 💰 Korivash Donation Page
